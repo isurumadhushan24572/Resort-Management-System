@@ -6,7 +6,7 @@
 This project was done under,
 
 * CS304.3 Database Systems (3 credits)
-* I contributed to develop full stack system of the project.
+* I contributed to develop back-end  of the project with developing Triggers.
 
 ### Table of Contents
 
